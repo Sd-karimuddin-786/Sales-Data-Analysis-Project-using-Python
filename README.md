@@ -8,7 +8,8 @@ This project is based on Sales Data Analysis, which I developed using Python as 
 **Imported Dataset:**  In this project I used Sales Dataset it is in CSV file.                         
 **Data Cleaning:**  In data cleaning process I uses some methods like finding Null Values, Dropping Null Values, filling null values, replaced null values, renamed some columns and deleted some duplicated values.
 
-**Exploratory Data Analysis (EDA)**                                                                     
+**Exploratory Data Analysis (EDA)**      
+
 I did Data Analysis based on few Business Questions and extracted valuable insights:                   
  **Few Questions & Answers:**                                                
 •	Most profitable product in sub-category: **Copiers**                                           
